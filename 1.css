@@ -2,6 +2,7 @@
   
     text-align: center;
     
+    background:linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(toty1.png);
     }
     
     input {
@@ -17,6 +18,8 @@
       border-radius: 10px;
     }
     
-p{
+ 
+p ,h1,h2,h3,h4,h5{
+    color: whitesmoke;
     font-size: 15px;
-}    
+}      
