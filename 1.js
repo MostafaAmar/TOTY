@@ -70,7 +70,7 @@
 
       function myFunction4() {
         var coinspack = document.getElementById("week1").value;
-        var rCoins = 160;
+        var rCoins = 80;
         totalCoins= Math.floor((rCoins-(coinspack*10))/6)*20
         if(coinspack>8) {
             document.getElementById("demo5").innerHTML= "مينفعش تفتح اكتر من 8 باكات :)"
